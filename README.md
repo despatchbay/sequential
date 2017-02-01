@@ -5,7 +5,7 @@ Sequential lets you create sequences of ID numbers, optionally formatted.
 
 With composer:
 
-    require "errant/sequential": "1.0.*"
+    require "despatchbay/sequential": "1.0.*"
 
 ## Examples
 

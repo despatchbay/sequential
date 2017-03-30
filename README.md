@@ -1,7 +1,7 @@
 # Sequential
 Sequential lets you create sequences of ID numbers, optionally formatted.
 
-## Install
+## Install
 
 With composer:
 
